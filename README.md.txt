@@ -1,6 +1,7 @@
 Read.Me for The Getting and Cleaning Data Class Project
 Jim Maloney
 
+<<<<<<< HEAD
 This was a challenging project.
 
 The first key step was to understand how the different files worked together and what they actually did. I did several google searches and read in the files and looked at their sizes and dimensions to get a better understanding of what
@@ -24,3 +25,6 @@ I may have left in some freq avg calculated fields that weren't strictly average
 
 The last step was to create a new tidy data file summary by subject and exercise.  For this I used the group_by command, and then wrote the table out to a file.  Again, there may be a few extra elements here, but this is a tidy data set since each row is an observation - that of a given subject doing a given exercise, and each column is a list of averages around those observations.
 
+=======
+What Files I've Been Given, How I've Read Them In, Their Dimensions, and My Best Guess at What They Do
+>>>>>>> origin/master
